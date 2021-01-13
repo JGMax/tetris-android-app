@@ -25,7 +25,7 @@
             android:id="@+id/tv_high_score"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/high_score"
+            android:text="@string/high_score_default"
             android:textSize="20sp"/>
         <LinearLayout
             android:layout_width="wrap_content"
