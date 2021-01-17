@@ -8,7 +8,7 @@ import android.view.View
 import android.widget.Button
 import android.widget.TextView
 import com.google.android.material.snackbar.Snackbar
-import storage.AppPreferences
+import com.gorteamapps.tetris.storage.AppPreferences
 import kotlin.system.exitProcess
 
 class MainActivity : AppCompatActivity() {

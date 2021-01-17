@@ -1,4 +1,4 @@
-package storage
+package com.gorteamapps.tetris.storage
 
 import android.content.Context
 import android.content.SharedPreferences
