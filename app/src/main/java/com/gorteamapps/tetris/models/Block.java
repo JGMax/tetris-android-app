@@ -19,7 +19,7 @@ public class Block {
         this.frameNumber = 0;
         this.shapeIndex = shapeIndex;
         this.color = blockColor;
-        this.position = new Point(FieldConstants.COLOMN_COUNT.getValue()/2, 0);
+        this.position = new Point(FieldConstants.COLUMN_COUNT.getValue()/2, 0);
     }
 
     public static Block createBlock() {
